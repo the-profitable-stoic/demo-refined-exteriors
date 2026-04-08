@@ -1,0 +1,587 @@
+{
+  "business": {
+    "name": "Refined Exteriors",
+    "phone": "+17203601611",
+    "category": "siding installer",
+    "city": "Denver",
+    "state": "CO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Denver's Siding Experts",
+      "heroSubline": "Protecting homes across the Front Range with unmatched siding installation. Built to withstand Colorado's extreme weather.",
+      "aboutTitle": "Built on Integrity, Defined by Quality",
+      "aboutText": [
+        "Refined Exteriors was founded over a decade ago with a simple goal: to provide Denver homeowners with superior siding solutions and unparalleled craftsmanship. We're not just installers; we're protectors of your home against the harsh Colorado climate.",
+        "Our approach is straightforward: meticulous attention to detail, honest communication, and a commitment to exceeding expectations. We believe in doing the job right the first time, using only premium materials and proven techniques.",
+        "We're proud to be a part of the Denver community. From sponsoring local youth sports teams to volunteering with Habitat for Humanity, we believe in giving back to the neighborhoods we serve. Refined Exteriors is invested in the long-term well-being of our community."
+      ],
+      "valueProps": [
+        {
+          "title": "Weather-Resistant Siding",
+          "description": "Engineered to withstand Denver's freeze-thaw cycles and intense UV exposure."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our team of experienced installers ensures a precise and durable fit, every time."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We source only the highest quality siding products from trusted manufacturers."
+        },
+        {
+          "title": "Lasting Protection",
+          "description": "Protect your home with durable siding solutions that stand the test of time."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation siding consultation and estimate. Call now to schedule!"
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable and affordable vinyl siding installation for Denver homes.",
+        "description": "Refined Exteriors offers professional vinyl siding installation services in Denver, CO. Vinyl siding is a popular choice for its affordability, durability, and low maintenance. We install a wide variety of vinyl siding styles, from traditional lap siding to vertical siding and shakes. Our expert installers ensure a precise fit and a watertight seal, protecting your home from the elements. \n\nWe understand Denver's unique climate, with its freeze-thaw cycles and intense sun. That's why we only use high-quality vinyl siding that is designed to withstand these conditions. We carefully inspect your existing structure, address any underlying issues, and prepare the surface for optimal adhesion. \n\nOur vinyl siding installation process includes precise measurements, careful cutting, and secure fastening. We pay close attention to detail, ensuring that all seams and joints are properly sealed to prevent water damage. With Refined Exteriors, you can be confident that your new vinyl siding will look great and protect your home for years to come.",
+        "process": [
+          "Step 1: Consultation and material selection",
+          "Step 2: Precise measurement and surface preparation",
+          "Step 3: Expert installation with attention to detail",
+          "Step 4: Final inspection and cleanup"
+        ],
+        "benefits": [
+          "Affordable and cost-effective",
+          "Durable and low maintenance",
+          "Wide variety of styles and colors",
+          "Increased curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding installation take?",
+            "answer": "The duration depends on the size and complexity of your home, but most installations are completed within 3-7 days."
+          },
+          {
+            "question": "Is vinyl siding energy efficient?",
+            "answer": "Yes, vinyl siding can improve your home's energy efficiency by providing an extra layer of insulation. We also offer insulated vinyl siding for even greater energy savings."
+          },
+          {
+            "question": "What type of warranty do you offer?",
+            "answer": "We offer a comprehensive warranty on both materials and workmanship, giving you peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Long-lasting fiber cement siding installation for Denver's discerning homeowners.",
+        "description": "Refined Exteriors specializes in fiber cement siding installation, a premium siding option known for its durability, beauty, and resistance to the elements. Fiber cement siding mimics the look of natural wood but is far more resistant to fire, pests, and rot. It's an ideal choice for Denver homes that need to withstand the area's unpredictable weather.\n\nWe are certified installers of leading fiber cement brands, ensuring that your siding is installed according to manufacturer specifications for optimal performance and longevity. Our team has extensive experience working with fiber cement, from cutting and shaping to proper fastening and sealing. We pay meticulous attention to detail to ensure a seamless and professional finish.\n\nChoosing fiber cement siding is an investment in your home's value and curb appeal. Refined Exteriors is committed to providing expert installation services that will protect your home for decades to come. We handle every aspect of the project, from initial consultation to final inspection, ensuring a smooth and stress-free experience.",
+        "process": [
+          "Step 1: Detailed consultation and design selection",
+          "Step 2: Precise cutting and shaping of fiber cement boards",
+          "Step 3: Expert installation with proper fastening techniques",
+          "Step 4: Sealing and finishing for maximum protection"
+        ],
+        "benefits": [
+          "Exceptional durability and longevity",
+          "Resistance to fire, pests, and rot",
+          "Authentic wood-like appearance",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "How does fiber cement siding compare to wood siding?",
+            "answer": "Fiber cement siding offers the same aesthetic appeal as wood but provides superior resistance to fire, pests, and decay, requiring less maintenance."
+          },
+          {
+            "question": "Can fiber cement siding be painted?",
+            "answer": "Yes, fiber cement siding can be painted to match your desired color scheme. It holds paint exceptionally well, providing a long-lasting finish."
+          },
+          {
+            "question": "What is the lifespan of fiber cement siding?",
+            "answer": "With proper installation and maintenance, fiber cement siding can last for 50 years or more."
+          }
+        ]
+      },
+      {
+        "slug": "wood-siding-installation",
+        "name": "Wood Siding Installation",
+        "shortDescription": "Timeless wood siding installation, expertly crafted for Denver's classic homes.",
+        "description": "Refined Exteriors provides expert wood siding installation services, bringing timeless beauty and natural warmth to your Denver home. While wood siding requires more maintenance than other options, its classic appeal and natural character are unmatched. We work with a variety of wood species, including cedar, redwood, and pine, to create a custom look that complements your home's architecture.\n\nOur experienced craftsmen understand the nuances of working with wood. We carefully select each board, ensuring that it is free of defects and properly seasoned. We use traditional techniques to install wood siding, paying close attention to detail to ensure a seamless and durable finish. We also offer staining and painting services to protect your wood siding from the elements.\n\nFrom Victorian homes in Capitol Hill to bungalows in Littleton, we understand the unique architectural styles of Denver's neighborhoods. Refined Exteriors is dedicated to providing wood siding installation services that enhance the beauty and value of your home.",
+        "process": [
+          "Step 1: Wood species selection and design consultation",
+          "Step 2: Careful selection and preparation of wood boards",
+          "Step 3: Precise cutting and installation with traditional techniques",
+          "Step 4: Staining or painting for weather protection and aesthetic appeal"
+        ],
+        "benefits": [
+          "Timeless beauty and natural character",
+          "Customizable to match your home's architecture",
+          "Environmentally friendly and sustainable",
+          "Increased curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What type of maintenance does wood siding require?",
+            "answer": "Wood siding requires regular painting or staining to protect it from moisture and UV damage. It should also be inspected periodically for signs of rot or insect infestation."
+          },
+          {
+            "question": "How long does wood siding last?",
+            "answer": "With proper maintenance, wood siding can last for 20-30 years or more."
+          },
+          {
+            "question": "Is wood siding environmentally friendly?",
+            "answer": "Yes, wood siding is a renewable resource and can be a sustainable building material when sourced from responsibly managed forests."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Fast and reliable siding repair to protect your Denver home from the elements.",
+        "description": "Refined Exteriors offers comprehensive siding repair services to address any damage to your home's exterior. From minor cracks and dents to major storm damage, our experienced technicians can quickly and efficiently restore your siding to its original condition. We understand the importance of timely repairs to prevent further damage and protect your home from the elements.\n\nWe work with all types of siding, including vinyl, fiber cement, wood, and metal. Our repair services include patching, replacing damaged boards, sealing gaps, and repainting. We use high-quality materials and proven techniques to ensure a durable and long-lasting repair. We know that hail storms are common in Denver, so we specialize in hail damage repair.\n\nDon't let damaged siding compromise the integrity of your home. Contact Refined Exteriors for prompt and professional siding repair services. We'll assess the damage, provide a detailed estimate, and get your siding back in top shape in no time.",
+        "process": [
+          "Step 1: Thorough inspection to assess the extent of damage",
+          "Step 2: Detailed estimate and repair plan",
+          "Step 3: Efficient repair using high-quality materials",
+          "Step 4: Final inspection to ensure quality and durability"
+        ],
+        "benefits": [
+          "Prevents further damage to your home",
+          "Restores the appearance of your siding",
+          "Increases your home's energy efficiency",
+          "Extends the lifespan of your siding"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Common signs of siding damage include cracks, dents, holes, loose boards, and discoloration."
+          },
+          {
+            "question": "Can you match the existing color of my siding?",
+            "answer": "Yes, we can match the color of your existing siding using advanced color-matching technology."
+          },
+          {
+            "question": "How long does siding repair take?",
+            "answer": "The duration of siding repair depends on the extent of the damage, but most repairs can be completed within a few hours or days."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement Services",
+        "shortDescription": "Enhance your home with our complete siding replacement services in Denver.",
+        "description": "Refined Exteriors provides comprehensive siding replacement services to transform your home's exterior and protect it from the elements. If your siding is old, damaged, or simply outdated, we can replace it with a new, high-quality siding that will enhance your home's curb appeal and increase its value. We offer a wide variety of siding options, including vinyl, fiber cement, wood, and metal, to suit your style and budget.\n\nOur experienced team will handle every aspect of the siding replacement process, from removing the old siding to installing the new siding with precision and care. We pay close attention to detail to ensure a seamless and durable finish. We also offer insulation upgrades to improve your home's energy efficiency.\n\nInvesting in new siding is a smart way to protect your home and enhance its beauty. Refined Exteriors is committed to providing expert siding replacement services that will exceed your expectations.",
+        "process": [
+          "Step 1: Consultation and siding selection",
+          "Step 2: Removal of old siding and inspection of underlying structure",
+          "Step 3: Installation of new siding with precision and care",
+          "Step 4: Final inspection and cleanup"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Long-lasting protection"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right siding for my home?",
+            "answer": "We can help you choose the right siding based on your budget, style preferences, and the climate in Denver."
+          },
+          {
+            "question": "Do I need to replace my insulation when I replace my siding?",
+            "answer": "It's a good idea to consider upgrading your insulation when you replace your siding, as it can significantly improve your home's energy efficiency."
+          },
+          {
+            "question": "How much does siding replacement cost?",
+            "answer": "The cost of siding replacement depends on the size of your home, the type of siding you choose, and the complexity of the project. We provide free, no-obligation estimates."
+          }
+        ]
+      },
+      {
+        "slug": "siding-inspection",
+        "name": "Siding Inspection Services",
+        "shortDescription": "Comprehensive siding inspections to identify potential problems and protect your investment.",
+        "description": "Refined Exteriors offers thorough siding inspection services to help you identify potential problems and protect your investment. Our experienced inspectors will carefully examine your siding for signs of damage, wear, and tear. We'll provide you with a detailed report outlining our findings and recommendations for repair or replacement.\n\nA siding inspection is a valuable tool for homeowners who want to maintain the integrity of their home. It can help you identify problems early on, before they become more serious and costly to repair. We inspect all types of siding, including vinyl, fiber cement, wood, and metal.\n\nProtect your home with a professional siding inspection from Refined Exteriors. We'll give you the peace of mind knowing that your siding is in good condition.",
+        "process": [
+          "Step 1: Visual inspection of siding for damage and wear",
+          "Step 2: Detailed report outlining findings and recommendations",
+          "Step 3: Consultation to discuss repair or replacement options"
+        ],
+        "benefits": [
+          "Early detection of potential problems",
+          "Prevention of costly repairs",
+          "Peace of mind knowing your siding is in good condition",
+          "Increased lifespan of your siding"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my siding inspected?",
+            "answer": "We recommend having your siding inspected at least once a year, especially after a major storm."
+          },
+          {
+            "question": "What does a siding inspection include?",
+            "answer": "A siding inspection includes a visual examination of your siding for cracks, dents, holes, loose boards, and other signs of damage."
+          },
+          {
+            "question": "How much does a siding inspection cost?",
+            "answer": "The cost of a siding inspection depends on the size of your home and the type of siding you have. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "hail-damage-repair",
+        "name": "Hail Damage Siding Repair",
+        "shortDescription": "Expert hail damage siding repair services for Denver's storm-prone homes.",
+        "description": "Denver's Front Range is susceptible to powerful hail storms. Refined Exteriors specializes in hail damage siding repair, quickly and efficiently restoring your home's protection and appearance. We work directly with insurance companies to streamline the claims process and minimize your stress. Our experienced team assesses the hail damage to your siding, providing a detailed report and estimate for repairs or replacement.\n\nWe understand the urgency of hail damage repair. Exposed areas can lead to water damage, mold growth, and further structural issues. Refined Exteriors uses quality materials and proven techniques to ensure a seamless repair that matches your existing siding. We handle all types of siding materials, including vinyl, fiber cement, and wood.\n\nDon't let hail damage compromise your home's integrity. Contact Refined Exteriors for a prompt and professional hail damage assessment and repair.",
+        "process": [
+          "Step 1: Thorough hail damage assessment and documentation",
+          "Step 2: Coordination with insurance companies for claims processing",
+          "Step 3: Expert repair or replacement of damaged siding",
+          "Step 4: Final inspection to ensure quality and customer satisfaction"
+        ],
+        "benefits": [
+          "Fast and efficient hail damage repair",
+          "Direct insurance claim assistance",
+          "Protection against further water damage",
+          "Restored curb appeal and property value"
+        ],
+        "faq": [
+          {
+            "question": "How do I file a hail damage claim with my insurance company?",
+            "answer": "We can guide you through the process of filing a hail damage claim and provide the necessary documentation to support your claim."
+          },
+          {
+            "question": "Will my insurance cover hail damage siding repair?",
+            "answer": "Most homeowner's insurance policies cover hail damage. Review your policy or contact your insurance agent for details."
+          },
+          {
+            "question": "How long does it take to repair hail damage to siding?",
+            "answer": "The duration of hail damage repair depends on the extent of the damage and the type of siding. We strive to complete repairs as quickly as possible while maintaining quality workmanship."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Aurora",
+        "slug": "aurora-co",
+        "state": "CO",
+        "content": "Refined Exteriors is proud to offer our siding installation services to the residents of Aurora, Colorado. Aurora, a vibrant and diverse city, boasts a significant number of homes built during the 1970s and 1980s, many of which are now due for siding upgrades and replacements. We understand the specific needs of Aurora homeowners and offer a range of siding options to enhance the curb appeal and energy efficiency of their homes. \n\nOur team is experienced in working with the prevalent architectural styles found in Aurora's established neighborhoods. We are committed to providing top-quality workmanship and using durable materials that can withstand Aurora's cold winters and heavy snowfall. Whether you're looking to update the look of your home or improve its protection against the elements, Refined Exteriors is here to help.",
+        "localContext": "We understand Aurora's 1970s-80s suburban developments and the need for siding that can withstand cold winters with heavy snow.",
+        "nearbyAreas": [
+          "Centennial",
+          "Denver",
+          "Commerce City"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-co",
+        "state": "CO",
+        "content": "Refined Exteriors provides expert siding installation services to homeowners in Lakewood, Colorado. Known for its many 1960s and 1970s split-level homes, Lakewood presents unique siding challenges and opportunities. We specialize in transforming these classic homes with modern siding solutions that improve energy efficiency and aesthetic appeal. \n\nWe offer a variety of siding materials, including vinyl, fiber cement, and wood, to match the style and budget of any Lakewood homeowner. Our experienced installers are familiar with the construction techniques used in Lakewood homes and can ensure a seamless and professional installation. We are dedicated to helping Lakewood residents protect their homes from the elements and enhance their property value.",
+        "localContext": "We specialize in siding for Lakewood's 1960s-70s split-level homes, providing durable solutions for cold winters with heavy snow.",
+        "nearbyAreas": [
+          "Denver",
+          "Golden",
+          "Morrison"
+        ]
+      },
+      {
+        "city": "Arvada",
+        "slug": "arvada-co",
+        "state": "CO",
+        "content": "Refined Exteriors is your trusted partner for siding installation in Arvada, Colorado. Arvada is characterized by its many 1960s and 1970s ranch-style homes, which often require siding upgrades to maintain their structural integrity and curb appeal. We understand the specific needs of Arvada homeowners and offer a wide selection of siding options to complement the classic architecture of the area.\n\nOur team is skilled in working with the unique challenges presented by ranch homes, ensuring a precise and professional installation every time. We are committed to providing Arvada residents with top-quality siding solutions that will protect their homes from the harsh Colorado climate and enhance their property value. From vinyl to fiber cement, we have the perfect siding to meet your needs and budget.",
+        "localContext": "We know Arvada's 1960s-70s ranch homes well and offer siding solutions that can withstand cold winters with heavy snow.",
+        "nearbyAreas": [
+          "Wheat Ridge",
+          "Westminster",
+          "Golden"
+        ]
+      },
+      {
+        "city": "Littleton",
+        "slug": "littleton-co",
+        "state": "CO",
+        "content": "Refined Exteriors proudly serves the siding needs of homeowners in Littleton, Colorado. With its charming historic downtown and many beautiful bungalows, Littleton requires a sensitive approach to siding replacement and installation. We offer a range of siding options that complement the architectural character of Littleton's homes, preserving their historical charm while providing modern performance. \n\nOur team is experienced in working with older homes and understands the importance of maintaining their unique features. We are dedicated to providing Littleton residents with top-quality workmanship and using materials that will stand the test of time. Whether you're looking to restore your home's original beauty or upgrade its energy efficiency, Refined Exteriors is here to help.",
+        "localContext": "We specialize in siding for Littleton's historic downtown bungalows, offering solutions suitable for the local climate of cold winters with heavy snow.",
+        "nearbyAreas": [
+          "Englewood",
+          "Centennial",
+          "Highlands Ranch"
+        ]
+      },
+      {
+        "city": "Highlands Ranch",
+        "slug": "highlands-ranch-co",
+        "state": "CO",
+        "content": "Refined Exteriors is a leading provider of siding installation services in Highlands Ranch, Colorado. As a planned community with many homes built in the 1990s and 2000s, Highlands Ranch offers a diverse range of architectural styles. We understand the specific needs of Highlands Ranch homeowners and offer a wide selection of siding options to complement the modern aesthetic of the area.\n\nOur team is skilled in working with various siding materials, including vinyl, fiber cement, and composite siding. We are committed to providing Highlands Ranch residents with top-quality workmanship and using durable materials that can withstand the Colorado climate. Whether you're looking to update the look of your home or improve its energy efficiency, Refined Exteriors is here to help.",
+        "localContext": "We understand the siding needs of Highlands Ranch's 1990s-2000s planned community homes, focusing on durability for cold winters with heavy snow.",
+        "nearbyAreas": [
+          "Littleton",
+          "Lone Tree",
+          "Centennial"
+        ]
+      },
+      {
+        "city": "Centennial",
+        "slug": "centennial-co",
+        "state": "CO",
+        "content": "Refined Exteriors is dedicated to providing top-notch siding installation services to the residents of Centennial, Colorado. Known for its well-maintained neighborhoods and diverse housing styles, Centennial presents homeowners with a variety of siding needs. We offer a comprehensive range of siding options to enhance the curb appeal and protect the homes in this thriving community.\n\nOur experienced team understands the specific requirements of Centennial homes and is committed to delivering exceptional workmanship. We use only the highest quality materials to ensure long-lasting performance and protection against the elements. Whether you're looking to upgrade your existing siding or install new siding on a newly constructed home, Refined Exteriors is here to assist you.",
+        "localContext": "We offer siding solutions tailored to Centennial's diverse housing styles, keeping in mind the need for protection against cold winters with heavy snow.",
+        "nearbyAreas": [
+          "Aurora",
+          "Littleton",
+          "Greenwood Village"
+        ]
+      },
+      {
+        "city": "Broomfield",
+        "slug": "broomfield-co",
+        "state": "CO",
+        "content": "Refined Exteriors is your trusted choice for siding installation services in Broomfield, Colorado. With a mix of established neighborhoods and newer developments, Broomfield presents a range of siding needs for homeowners. We offer a wide selection of siding options to suit any architectural style and budget while ensuring optimal protection and aesthetic appeal.\n\nOur skilled technicians are well-versed in the unique challenges and opportunities presented by Broomfield homes. We are committed to providing superior customer service and delivering results that exceed expectations. Whether you're looking to improve energy efficiency or enhance the overall look of your home, Refined Exteriors is here to help.",
+        "localContext": "We cater to Broomfield's range of housing styles with siding solutions designed to withstand cold winters and heavy snowfall.",
+        "nearbyAreas": [
+          "Westminster",
+          "Thornton",
+          "Arvada"
+        ]
+      },
+      {
+        "city": "Westminster",
+        "slug": "westminster-co",
+        "state": "CO",
+        "content": "Refined Exteriors offers expert siding installation services to homeowners in Westminster, Colorado. Westminster's diverse housing landscape, from older homes to newer constructions, calls for versatile siding solutions. We provide a wide array of siding materials and styles to meet the specific needs and preferences of Westminster residents.\n\nOur team of experienced installers is dedicated to delivering exceptional quality and craftsmanship. We understand the importance of protecting your home from the elements and enhancing its overall value. Whether you're looking to replace outdated siding or install new siding on a new home, Refined Exteriors is at your service.",
+        "localContext": "We provide siding solutions for Westminster's diverse housing landscape, ensuring durability against the cold winters with heavy snow.",
+        "nearbyAreas": [
+          "Arvada",
+          "Broomfield",
+          "Thornton"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Refined Exteriors did an outstanding job on our new vinyl siding! The team was professional, efficient, and the quality of work was top-notch. Our house looks amazing, and we've already noticed a difference in our energy bills. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Fiber Cement Siding Replacement",
+        "text": "We had Refined Exteriors replace our old wood siding with fiber cement, and we're very pleased with the results. The crew was skilled and meticulous, and they cleaned up thoroughly after the job. There was a slight delay due to weather, but they kept us informed throughout the process.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Emily L.",
+        "rating": 5,
+        "service": "Siding Repair",
+        "text": "After a nasty hail storm, our siding was riddled with dents. Refined Exteriors came out quickly and repaired the damage seamlessly. You can't even tell there was ever any damage! Great service and fair pricing.",
+        "date": "2024-11-01"
+      },
+      {
+        "name": "David B.",
+        "rating": 5,
+        "service": "Wood Siding Installation",
+        "text": "Refined Exteriors installed beautiful cedar siding on our historic home in Capitol Hill. They took great care to preserve the architectural details and the result is stunning. Worth every penny!",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 4,
+        "service": "Siding Inspection",
+        "text": "We hired Refined Exteriors for a siding inspection before buying a new home. Their detailed report uncovered some potential issues that we were able to address with the seller. Very thorough and professional.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Hail Damage Siding Repair",
+        "text": "Refined exteriors helped me with my hail damaged siding. They worked directly with my insurance company and made the whole process easy. Their work was quick and professional!",
+        "date": "2024-08-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Refined Exteriors | Denver Siding",
+        "description": "Denver's leading siding installer. Vinyl, fiber cement, wood siding. Expert installation & repair. Free estimates!"
+      },
+      "about": {
+        "title": "About Refined Exteriors | Denver Siding",
+        "description": "Learn about Refined Exteriors' commitment to quality siding installation in Denver. Experienced team, superior materials."
+      },
+      "services": {
+        "title": "Siding Services | Refined Exteriors Denver",
+        "description": "Comprehensive siding services in Denver: vinyl, fiber cement, wood. Expert installation, repair, and replacement."
+      },
+      "contact": {
+        "title": "Contact Refined Exteriors | Denver Siding",
+        "description": "Contact Refined Exteriors for a free siding consultation and estimate in Denver. Call now!"
+      },
+      "reviews": {
+        "title": "Refined Exteriors Reviews | Denver Siding",
+        "description": "Read reviews from satisfied Refined Exteriors customers in Denver. Quality siding installation and repair services."
+      },
+      "service-areas": {
+        "title": "Siding Services Areas | Refined Exteriors",
+        "description": "Refined Exteriors provides siding services in Denver, Aurora, Lakewood, Arvada, Littleton, Highlands Ranch."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "wood-siding-installation": "/images/service-wood-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "siding-inspection": "/images/service-siding-inspection.webp",
+      "hail-damage-repair": "/images/service-hail-damage-repair.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-siding-installation": {
+        "src": "/images/service-wood-siding-installation.webp",
+        "srcset": "/images/service-wood-siding-installation-400w.webp 400w, /images/service-wood-siding-installation-800w.webp 800w, /images/service-wood-siding-installation-1200w.webp 1200w, /images/service-wood-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-inspection": {
+        "src": "/images/service-siding-inspection.webp",
+        "srcset": "/images/service-siding-inspection-400w.webp 400w, /images/service-siding-inspection-800w.webp 800w, /images/service-siding-inspection-1200w.webp 1200w, /images/service-siding-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hail-damage-repair": {
+        "src": "/images/service-hail-damage-repair.webp",
+        "srcset": "/images/service-hail-damage-repair-400w.webp 400w, /images/service-hail-damage-repair-800w.webp 800w, /images/service-hail-damage-repair-1200w.webp 1200w, /images/service-hail-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
